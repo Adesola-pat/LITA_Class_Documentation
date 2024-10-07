@@ -30,3 +30,6 @@ This has to do with the several functions or line of codes (queries) used during
 SELECT * FROM [dbo].[SALARY]
 where STAFF_ID = 'AB503'
 ```
+
+### Data Visualization
+This is where we have a visual display of all results
