@@ -60,6 +60,10 @@ where Payment_Method = 'cash'
 ---
 This is where we have a visual display of all results generated after the analysis.
 
+![Bar Chart](https://github.com/user-attachments/assets/28cd018c-c401-4064-a695-47b034cee979)
+
+
+![BAR](https://github.com/user-attachments/assets/3a31044c-5bb2-4df2-9885-fe1577d46350)
 
 
 
