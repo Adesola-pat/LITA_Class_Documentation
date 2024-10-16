@@ -57,6 +57,7 @@ where Payment_Method = 'cash'
 ```
 
 ### Data Visualization
+---
 This is where we have a visual display of all results generated after the analysis.
 
 ![Chat1](https://github.com/user-attachments/assets/fb280209-379b-4929-9b21-5fff829c4155)
